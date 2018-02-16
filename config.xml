@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.JV.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+<platform name="android" />
+<!-- versionCode is optional and Android only -->
+
+  <name>Jogo Da Velha</name>
+
+  <description>
+      Um jogo divertido para jogar com amigos.
+  </description>
+
+  <author href="https://build.phonegap.com" email="support@phonegap.com">
+      Pjoao266
+  </author>
+<preference name="permissions"                value="none"/>
+<preference name="fullscreen"                 value="true" />  
+<icon src="imgs/ico.png" />
+</widget>
