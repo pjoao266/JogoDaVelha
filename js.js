@@ -195,7 +195,7 @@ function reset(){
 }
 
 $(".confirm").click(function(){
-		$(".container").css("display","none");
+		$(".containr").css("display","none");
 		$(".jogo").css("display","block");
 		nj1=$(".nj1").val();
 		nj2=$(".nj2").val();

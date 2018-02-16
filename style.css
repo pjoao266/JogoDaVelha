@@ -17,7 +17,7 @@
 	border-left: 1px solid black;
 
 }
-	p.input-container {
+	p.input-containr {
   width: 100%; 
   position: relative;
   top: 50px;
@@ -66,7 +66,6 @@ h2 {
 
 .container {
   position: absolute;
-  left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
   min-width: 500px; 
