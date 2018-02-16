@@ -17,6 +17,5 @@
       Pjoao266
   </author>
 <preference name="permissions"                value="none"/>
-<preference name="fullscreen"                 value="true" />  
 <icon src="imgs/ico.png" />
 </widget>
