@@ -1,0 +1,9 @@
+$(".confirm").click(function(){
+		nj1=$(".nj1").val();		
+		if($("input[name='Dificuldade']:checked").val()=="1"){
+			window.location.assign("jogoPvCF.html?j1="+nj1);
+		}
+		else{
+			window.location.assign("jogoPvCD.html?j1="+nj1);
+		}
+});
